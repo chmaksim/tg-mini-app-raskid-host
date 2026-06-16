@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#3a4a5a"/>
+  <rect x="20" y="20" width="1240" height="680" fill="none" stroke="#ffffff44" stroke-width="2" stroke-dasharray="12 10"/>
+  <text x="640" y="330" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff" text-anchor="middle">WHERE TO STAND</text>
+  <text x="640" y="400" font-family="Arial, sans-serif" font-size="30" fill="#ffffffcc" text-anchor="middle">Top Mid → Window smoke</text>
+  <text x="640" y="660" font-family="Arial, sans-serif" font-size="22" fill="#ffffff88" text-anchor="middle">placeholder — replace with a real screenshot</text>
+</svg>
